@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olá me chamo Gustavo Henrique, tenho 31 anos e estou numa fase empolgante da minha vida, em transição de carreira do setor de PCP (Planejamento e Controle de Produção), para o desenvolvimento front-end. Após 10 anos de experiência, decidi me reinventar e investir no desenvolvimento front-end. Sempre fui fascinado como a tecnologia desde meus 9 anos e como a tecnologia vem impactando o mundo, e a programação se tornou uma paixão, um caminho natural para eu explorar novos desafios e contribuir com soluções criativas.
+Olá me chamo Gustavo Henrique, tenho 32 anos e estou numa fase empolgante da minha vida, em transição de carreira do setor de PCP (Planejamento e Controle de Produção), para o desenvolvimento front-end. Após 10 anos de experiência, decidi me reinventar e investir no desenvolvimento front-end. Sempre fui fascinado como a tecnologia desde meus 9 anos e como a tecnologia vem impactando o mundo, e a programação se tornou uma paixão, um caminho natural para eu explorar novos desafios e contribuir com soluções criativas.
 
 Minha experiência com Informática me deu habilidades sólidas que agora aplico na programação. Tenho facilidade em resolver problemas, experiência em organização e uma comunicação clara e objetiva, o que me ajuda a colaborar em equipe e lidar com projetos de maneira estruturada. Com essa bagagem, acredito que posso trazer um olhar técnico e prático ao desenvolvimento, entregando soluções eficientes.
 
