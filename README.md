@@ -28,6 +28,9 @@ Para mim, essa transição é muito mais que uma mudança profissional, é a rea
   <img alin="left" Alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-[![Gusttavo Stats](https://github-readme-stats.vercel.app/api?username=gusttavohenriquel)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub Stats 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenriquel)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavohenriquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenriquel&layout=compact&langs_count=7&theme=dracula" />
+</div>
