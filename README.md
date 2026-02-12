@@ -30,7 +30,10 @@ Para mim, essa transição é muito mais que uma mudança profissional, é a rea
 
 ### My GitHub Stats 🚀
 
-<p align="left">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavohenriquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavohenriquel&layout=compact&langs_count=7&theme=dracula" />
-</p>
+</div>
+
+<br/>
+
